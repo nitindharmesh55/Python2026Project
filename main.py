@@ -70,3 +70,12 @@ print(greetings);
 name_age = f'my name is {name} and i am {age} years old';
 print(name_age);
 # Here f is formate stri
+
+
+# reverrstring;
+print(name_age[::-1]);
+
+
+js = "Learning JavaScript every day helps build problem-solving skills, create amazing projects, and become a better developer over time."
+
+print(js.capitalize());
