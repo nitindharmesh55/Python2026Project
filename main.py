@@ -69,5 +69,4 @@ print(greetings);
 
 name_age = f'my name is {name} and i am {age} years old';
 print(name_age);
-
-# Here f is formate string 
+# Here f is formate stri
