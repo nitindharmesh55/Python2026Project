@@ -79,3 +79,31 @@ print(name_age[::-1]);
 js = "Learning JavaScript every day helps build problem-solving skills, create amazing projects, and become a better developer over time."
 
 print(js.capitalize());
+
+
+# Condition: let's you control the flow of your program;
+print(3 > 4) # False
+print(3 < 4) # True
+print(3 == 4) # False
+print(4 == 4) # True
+print(3 != 4) # True
+print(3 >= 4) # False
+print(3 <= 4) # True
+
+agge = 18;
+if agge >= 18:
+    print("You are an adult now");
+else:
+    print("You are a minor");
+
+
+    # Creating fuction;
+
+def hello():
+        print("Hey Nitin");
+
+hello();
+hello();
+hello();
+hello();
+hello();    
