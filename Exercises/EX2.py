@@ -118,4 +118,9 @@ for i in range(1, 6):
 
 
 for i in range(1 , 6):
-    print(i)
+    result =  i * (i - 1)
+    print(result)
+
+
+for i in range(1,6):
+    
